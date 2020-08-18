@@ -7,7 +7,7 @@
     <groupId>org.bytedeco</groupId>
     <artifactId>javacpp-presets</artifactId>
     <version>1.5.4-SNAPSHOT</version>
-    <relativePath></relativePath>
+    <relativePath/>
   </parent>
 
   <groupId>org.bytedeco</groupId>
@@ -99,7 +99,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.12</version>
+      <version>4.13</version>
       <optional>true</optional>
     </dependency>
   </dependencies>
